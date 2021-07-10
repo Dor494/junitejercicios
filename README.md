@@ -1,4 +1,4 @@
-# junitEjercicios
+# junitEjercicios prueba Blue Ocean
 
 [![Build Status](https://travis-ci.org/ualhmis/junitEjercicios.svg?branch=master)](https://travis-ci.org/ualhmis/junitEjercicios)
 
